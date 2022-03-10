@@ -3,7 +3,6 @@ package com.devsuperior.dsmovie.entities;
 import javax.persistence.Embeddable;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
-import java.io.Serial;
 import java.io.Serializable;
 
 @Embeddable
